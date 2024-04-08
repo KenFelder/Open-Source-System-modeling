@@ -12,5 +12,5 @@ def test_divide():
 
 def test_square():
     assert Calculate.square(5) == 25
-    assert Calculate.square(3) == 1
+    assert Calculate.square(1) == 1
     assert Calculate.square(-6) == 36
