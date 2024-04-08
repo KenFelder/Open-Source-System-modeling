@@ -10,4 +10,4 @@ def divide(a, b):
 
 # returns the square of an input
 def square(a):
-    return a ** 2
+    return a**2
