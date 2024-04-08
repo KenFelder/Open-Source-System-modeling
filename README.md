@@ -2,7 +2,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-A repository to learn how to Git
+A repository to learn how to Git.
+
+Simple mathematical calculations to learn how to use git and how to perform some automated tests.
 
 
 Copyright 2024 Ken Felder
